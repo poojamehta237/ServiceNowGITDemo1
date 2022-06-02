@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_344976_work_as_0_work_assignments</description>
+        <name>x_344976_work_as_0_work_assignments</name>
+        <operation display_value="create">create</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-10 07:08:42</sys_created_on>
+        <sys_id>343b71ba07174110406df7d08c1ed0fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_344976_work_as_0_work_assignments</sys_name>
+        <sys_package display_value="Work Assignment" source="x_344976_work_as_0">7dcb513207d34110406df7d08c1ed08a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Work Assignment">7dcb513207d34110406df7d08c1ed08a</sys_scope>
+        <sys_update_name>sys_security_acl_343b71ba07174110406df7d08c1ed0fb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-10 07:08:42</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
